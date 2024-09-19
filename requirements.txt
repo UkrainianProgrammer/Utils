@@ -1,0 +1,5 @@
+appscript==1.2.5
+comtypes==1.4.7
+docx2pdf==0.1.8
+lxml==5.3.0
+tqdm==4.66.5
