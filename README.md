@@ -1,5 +1,5 @@
 # Utils
-Various programs to simplify, automate, and practice coding.
+Various programs to simplify tasks, automate workflows, and practice coding.
 
 ## Content
 I update this repo on a weekly basis and use these functions myself. 
